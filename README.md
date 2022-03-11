@@ -7,7 +7,7 @@ This public project is learning exercise with machine learning models. The goal 
 
 In the `regression_models.ipynb` file you will find a step by step juypter notebook with the data cleaning process, the model calibration and the results of my work using regression models.
 
-All models have been clibrated using the [TMDB 5000 Movie Dataset] provided by [Kaggle].
+All models have been calibrated using the [TMDB 5000 Movie Dataset] provided by [Kaggle].
 
    [IMDB]: <https://www.imdb.com/>
    [TMDB 5000 Movie Dataset]: <https://www.kaggle.com/tmdb/tmdb-movie-metadata>
